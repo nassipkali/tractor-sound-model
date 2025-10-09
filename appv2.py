@@ -17,7 +17,7 @@ import warnings
 warnings.filterwarnings("ignore", category=UserWarning)
 warnings.filterwarnings("ignore", category=FutureWarning)
 
-MODEL_PATH = "tractor_crnn.h5"
+MODEL_PATH = "tractor_crnn_v2.h5"
 CONFIG_PATH = "tractor_config.pkl"
 
 # Загружаем модель и параметры
